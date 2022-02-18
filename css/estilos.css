@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@300&family=Roboto:wght@300&display=swap');
+h1 {color: yellow;}
+h2 {color: white;}
+h3 {color: green;}
+a {color: red;}
+p {color: white;}
+pre {color: white}
+ul {color: white}
+pre {background-color: black;}
+.fuente-grande {font-size: 25px;}
+
+header {text-align: center;
+    font-size: 0px;
+    margin: 0px;
+    background-image: url("../imagenes/capital.jpg");}
+
+     nav { text-align: center;
+        font-size: 20px;
+        margin: 10px;
+        background-image: url("../imagenes/capital.jpg");
+         }
+         h1 {font-family: 'Abril Fatface',cursive;}
+         pre {font-family: 'Roboto Slab', serif;}
+         article {text-align: center;}
+         ul {font-size: 20px;
+             text-align:start;}
+         p.servi {font-size: 30px;
+             text-transform: uppercase;}
+             p.final {font-size: 25px;}
+             p.capital{font-size: 20px;}
+             p.quienes{font-size: 30px;}
+             h1 {border: 2px solid rgb(199, 218, 28);}
+             table ul{border: 2px solid rgb(212, 204, 204);}
+div{
+width: 250px;
+height: 100xp;
+border: 5px solid white;
+color: yellow;
+font-weight: bold;
+text-align: center;
+}
+#d1 {background-color: rgb(29, 6, 29);}
+#d2 {background-color: rgb(3, 59, 54);}
+.logoModificado{width:120px; height:120px;}
+.logoModificado:hover{ border: 4px dashed rgb(223, 226, 47);}
